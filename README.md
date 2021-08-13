@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jamietheminyard
+- 👀 I’m a nerd and skydiver
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me? Email jamietheminyard@gmail.com
