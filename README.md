@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jamietheminyard
-- 👀 I’m a nerd and skydiver
-- 🌱 I’m currently learning Javascript
+- 👀 I’m a geek at heart and Agile enthusiast
+- 🌱 I’m currently learning Javascript (node.js and React)
 - 📫 How to reach me? Email jamietheminyard@gmail.com
